@@ -1,7 +1,6 @@
 package unica.ds4h.miage.donati
 
 import com.google.genai.Client
-import com.google.genai.types.HttpOptions
 
 fun main() {
     val client = Client()
