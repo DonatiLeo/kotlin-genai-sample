@@ -11,7 +11,7 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"))
-    implementation("com.google.genai:google-genai:1.4.1")
+    implementation("com.google.genai:google-genai:1.43.0")
 }
 
 tasks.test {

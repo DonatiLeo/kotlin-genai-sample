@@ -7,7 +7,7 @@ fun main() {
 
     val response = client.models.generateContent(
         "gemini-2.5-flash",
-        "Explain bubble sort to me.",
+        "RAconte une histoire d'horreur",
         null
     )
 
